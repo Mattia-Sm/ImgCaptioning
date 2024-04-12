@@ -1,0 +1,5 @@
+venv
+images
+__pycache__
+data 
+grocery_store_images
